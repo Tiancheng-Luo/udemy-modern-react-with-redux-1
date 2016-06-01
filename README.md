@@ -1,5 +1,8 @@
-# ReduxSimpleStarter
-A simple YouTube API `React` app
+# udemy-modern-react-with-redux
+Master the fundamentals of React and Redux with this tutorial as you develop apps supported by NPM, Webpack, and ES6
 
-## Built for udemy course: Modern React with Redux
+## Udemy course: Modern React with Redux
 https://www.udemy.com/react-redux/
+
+## Course has been completed
+[certificate](https://www.udemy.com/certificate/UC-QESJIVSD/)
