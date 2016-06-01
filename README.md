@@ -5,4 +5,4 @@ Master the fundamentals of React and Redux with this tutorial as you develop app
 https://www.udemy.com/react-redux/
 
 ## Course has been completed
-[certificate](https://www.udemy.com/certificate/UC-QESJIVSD/)
+[Certificate](https://www.udemy.com/certificate/UC-QESJIVSD/)
